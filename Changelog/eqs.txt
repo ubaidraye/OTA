@@ -1,0 +1,5 @@
+DerpFest-v16.2-20260208-eqs-Community-Beta
+
+Enable eUICC Suport
+audio: Nuke unsupported haptics output configuration
+Initial OTA Support added
